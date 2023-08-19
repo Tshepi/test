@@ -1,2 +1,6 @@
 This is File C
+<<<<<<< HEAD
 This is a local change
+=======
+The line was added from Github.
+>>>>>>> b217c5fc6d508b1f69a0a4c227dcea96fe99ca5b
