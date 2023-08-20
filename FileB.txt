@@ -2,3 +2,4 @@ This is FileB
 Let's add another line to this file.
 File B is different again
 New Line for File B
+Squash Merge for File B
